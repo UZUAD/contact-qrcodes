@@ -8,7 +8,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 
 public class SvgUtil {
-    private static final String BASE_URL = "https://lsj-global.github.io/contact-qrcodes";
+    private static final String BASE_URL = "https://uzuad.github.io/contact-qrcodes";
     private static final String VCARD_DIR = "vcards";
     private static final String QR_DIR = "qr";
 
