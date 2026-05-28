@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7874f36b-0775-4be4-9121-5cc25f05bd0e" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lsjglobal/AhnJiYoonQrGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/lsjglobal/KwonWonkyungQrGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vcards/Ahn_ji_yoon.vcf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,6 +253,9 @@
       <workItem from="1779757396328" duration="258000" />
       <workItem from="1779757661307" duration="738000" />
       <workItem from="1779758429330" duration="9000" />
+      <workItem from="1779945471157" duration="2000" />
+      <workItem from="1779945476162" duration="603000" />
+      <workItem from="1779947774689" duration="365000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
